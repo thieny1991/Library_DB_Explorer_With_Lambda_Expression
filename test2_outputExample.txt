@@ -1,0 +1,146 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.1\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.1\lib\idea_rt.jar=58446:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\nguyen\IdeaProjects\dblp-explorer\target\classes;C:\Users\nguyen\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar Main
+Enter keyword = 
+app
+C:\Users\nguyen\IdeaProjects\dblp-explorer\test2.txt
+result 1:
+title: Remote Policy Enforcement for Trusted Application Execution in Mobile Environments
+id: 1000018889
+year: 2013
+authors: Fabio Martinelli, Ilaria Matteucci, Andrea Saracino, Daniele Sgandurra
+references: 94181602, 1504669610, 1542792105, 1639158619, 1966825932, 2050529434, 100001334, 2055456945, 2084871158, 2140911579, 2141935522, 2145187482, 2408322241
+
+result 2:
+title: The GAME Algorithm Applied to Complex Fractionated Atrial Electrograms Data Set
+id: 10000571
+year: 2008
+authors: Pavel Kordík, Václav K?emen, Lenka Lhotska
+references: 291899685, 1964166287, 2135293965, 2146842127, 2150913357, 2151572298, 2293714037
+
+result 3:
+title: Applying Soft Computing Technologies for Implementing Privacy-Aware Systems
+id: 100014528
+year: 2012
+authors: Christos Kalloniatis, Petros Belsis, Evangelia Kavakli, Stefanos Gritzalis
+references: 34239548, 140430729, 1510827835, 1918077612, 1991449426, 2069673757, 2139061144, 2165137029
+
+result 4:
+title: User Recognition and Preference of App Icon Stylization Design on the Smartphone
+id: 1000153461
+year: 2015
+authors: Chun-Ching Chen
+references: 
+
+result 5:
+title: Making Context Aware Decision from Uncertain Information in a Smart Home: A Markov Logic Network Approach
+id: 1000228583
+year: 2013
+authors: Pedro Chahuara, François Portet, Michel Vacher
+references: 22718786, 1500829410, 1529522905, 1535439311, 1977957176, 1977970897, 1984621248, 2004513044, 2040085703, 2074783809, 2085374652, 2129201704, 2141101929, 2160170050, 2398131491
+
+result 6:
+title: Multilayer Optimization Approach for Fuzzy Systems
+id: 100025968
+year: 2009
+authors: Ivan Nunes da Silva, Rogerio Andrade Flauzino
+references: 1968935533, 2019207321, 2079325629, 2141695047, 2159265133, 2159371584, 2162459787, 2166814474
+
+result 7:
+title: Information systems design approach integrating data and transactions
+id: 100028214
+year: 1981
+authors: Michel Léonard, B. T. Luong
+references: 1514637558, 1971475250, 1998512182, 2106887953, 2232207765
+
+result 8:
+title: A Grounded Theory Approach for Designing Communication and Collaboration System for Visually Impaired Chess Players
+id: 1000461908
+year: 2015
+authors: Sujit Devkar, Sylvan Lobo, Pankaj Doke
+references: 1969088462, 1993624695, 2007682188, 2015335177, 2052749145, 2062420723, 2109014385, 2122086994, 2140706899, 2158252111
+
+Enter tier n=
+2
+* 100001334 is cited by 1000018889 *
+Tier 1:	
+title: Remote Policy Enforcement for Trusted Application Execution in Mobile Environments
+id: 1000018889
+year: 2013
+authors: Fabio Martinelli, Ilaria Matteucci, Andrea Saracino, Daniele Sgandurra
+references: 94181602, 1504669610, 1542792105, 1639158619, 1966825932, 2050529434, 100001334, 2055456945, 2084871158, 2140911579, 2141935522, 2145187482, 2408322241
+
+
+* 1000018889 is cited by 100004108 *
+Tier 2:	
+title: Gait based human identity recognition from multi-view surveillance videos
+id: 100004108
+year: 2012
+authors: Emdad Hossain, Girija Chetty
+references: 1578000111, 2120433720, 2136461127, 2138931357, 2142096206, 2146566773, 2158275940, 2169403998, 2171596602, 1000018889
+
+
+* 1000018889 is cited by 100004108 *
+Tier 1:	
+title: Gait based human identity recognition from multi-view surveillance videos
+id: 100004108
+year: 2012
+authors: Emdad Hossain, Girija Chetty
+references: 1578000111, 2120433720, 2136461127, 2138931357, 2142096206, 2146566773, 2158275940, 2169403998, 2171596602, 1000018889
+
+
+* 100045787 is cited by 100045787 *
+* 100045787 is cited by 1000189836 *
+Tier 1:	
+title: On Issues of Feature Extraction in Chinese Automatic Essay Scoring System
+id: 100045787
+year: 2007
+authors: Tao-Hsing Chang, Chia-Hoang Lee, Hak Ping Tam
+references: 644802586, 100045787, 2149706766
+
+
+* 100045787 is cited by 100045787 *
+* 100045787 is cited by 1000189836 *
+Tier 2:	
+title: On Issues of Feature Extraction in Chinese Automatic Essay Scoring System
+id: 100045787
+year: 2007
+authors: Tao-Hsing Chang, Chia-Hoang Lee, Hak Ping Tam
+references: 644802586, 100045787, 2149706766
+
+
+* 100045787 is cited by 100045787 *
+* 100045787 is cited by 1000189836 *
+Tier 3:	
+title: On Issues of Feature Extraction in Chinese Automatic Essay Scoring System
+id: 100045787
+year: 2007
+authors: Tao-Hsing Chang, Chia-Hoang Lee, Hak Ping Tam
+references: 644802586, 100045787, 2149706766
+
+
+Tier 3:	
+title: Scalable structural clustering of local RNA secondary structures
+id: 1000189836
+year: 2014
+authors: Fabrizio Costa, Steffen Heyne, Dominic Rose, Rolf Backofen
+references: 2088278063, 100045787, 2111272410, 2111773652, 2137476097, 2165437648, 2170157200
+
+
+Tier 3:	
+title: Scalable structural clustering of local RNA secondary structures
+id: 1000189836
+year: 2014
+authors: Fabrizio Costa, Steffen Heyne, Dominic Rose, Rolf Backofen
+references: 2088278063, 100045787, 2111272410, 2111773652, 2137476097, 2165437648, 2170157200
+
+
+Tier 2:	
+title: Scalable structural clustering of local RNA secondary structures
+id: 1000189836
+year: 2014
+authors: Fabrizio Costa, Steffen Heyne, Dominic Rose, Rolf Backofen
+references: 2088278063, 100045787, 2111272410, 2111773652, 2137476097, 2165437648, 2170157200
+
+
+Total execution time: 10488ms
+
+Process finished with exit code 0

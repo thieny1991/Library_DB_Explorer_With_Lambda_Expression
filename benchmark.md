@@ -1,0 +1,39 @@
+# benchmark
+## RAM 16 GP - Max Speed = 2.6 GHz 
+number of Json Object in file = 100Keyword =app
+n = 2
+Memory used: 4884920 bytes
+Used memory is megabytes: 4.658622741699219
+Elapse Time: 7810number of Json Object in file = 100Keyword =app
+n = 2
+Memory used: 4846728 bytes
+Used memory is megabytes: 4.622200012207031
+Elapse Time: 10632number of Json Object in file = 246Keyword =cat
+n = 3
+Memory used: 5165728 bytes
+Used memory is megabytes: 4.926422119140625
+Elapse Time: 17114number of Json Object in file = 246Keyword =code
+n = 2
+Memory used: 5166352 bytes
+Used memory is megabytes: 4.9270172119140625
+Elapse Time: 8680number of Json Object in file = 246Keyword =temp
+n = 2
+Memory used: 5166416 bytes
+Used memory is megabytes: 4.9270782470703125
+Elapse Time: 9452number of Json Object in file = 246Keyword =a
+n = 10
+Memory used: 5178040 bytes
+Used memory is megabytes: 4.938163757324219
+Elapse Time: 10344number of Json Object in file = 246Keyword =opt
+n = 3
+Memory used: 5185008 bytes
+Used memory is megabytes: 4.9448089599609375
+Elapse Time: 11877number of Json Object in file = 701Keyword =find
+n = 4
+Memory used: 6411544 bytes
+Used memory is megabytes: 6.114524841308594
+Elapse Time: 13952
+
+
+
+
