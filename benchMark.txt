@@ -30,4 +30,32 @@ Elapse Time: 11877number of Json Object in file = 701Keyword =find
 n = 4
 Memory used: 6411544 bytes
 Used memory is megabytes: 6.114524841308594
-Elapse Time: 13952
+Elapse Time: 13952number of Json Object in file = 100Keyword =app
+n = 2
+Memory used: 4325016 bytes
+Used memory is megabytes: 4.124656677246094
+Elapse Time: 13973number of Json Object in file = 701Keyword =applications
+n = 4
+Memory used: 6176696 bytes
+Used memory is megabytes: 5.890556335449219
+Elapse Time: 13590number of Json Object in file = 701Keyword =app
+n = 4
+Memory used: 5713248 bytes
+Used memory is megabytes: 5.448577880859375
+Elapse Time: 13198number of Json Object in file = 701Keyword =the
+n = 4
+Memory used: 5793416 bytes
+Used memory is megabytes: 5.525032043457031
+Elapse Time: 17147number of Json Object in file = 701Keyword =2
+n = 3
+Memory used: 5695728 bytes
+Used memory is megabytes: 5.4318695068359375
+Elapse Time: 8116number of Json Object in file = 701Keyword =the
+n = 4
+Memory used: 5696472 bytes
+Used memory is megabytes: 5.432579040527344
+Elapse Time: 25463number of Json Object in file = 700Keyword =is
+n = 3
+Memory used: 6076224 bytes
+Used memory is megabytes: 5.79473876953125
+Elapse Time: 11260
